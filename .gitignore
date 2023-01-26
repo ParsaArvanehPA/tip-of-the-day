@@ -192,5 +192,6 @@ fabric.properties
 !.idea/runConfigurations
 
 .node_moduels
+.node_moduels/*
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,webstorm,webstorm+all
